@@ -1,1 +1,0 @@
-# nemethricsi.github.io

@@ -1,0 +1,1 @@
+{"version":3,"sources":["header.module.css","legitarsasagOldal.module.css"],"names":[],"mappings":"AAAA,sBACE,qBAAyB,CACzB,qBACF,CCHA,uCACE,aAAc,CACd,yBACF","file":"main.90d85eb7.chunk.css","sourcesContent":[".szurke {\n  background-color: #cccccc;\n  border: 2px solid #333333;\n}\n",".hivatkozas a {\n  color: #3cb878;\n  text-decoration: underline;\n}\n"]}
